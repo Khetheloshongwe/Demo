@@ -28,10 +28,6 @@
         "source": "C:\\Users\\lab_services_student\\.gradle\\daemon\\8.2\\com.shongwe.demo.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\lab_services_student\\.gradle\\daemon\\8.2\\com.shongwe.demo.app-merged_res-31:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\lab_services_student\\.gradle\\daemon\\8.2\\com.shongwe.demo.app-main-33:\\drawable\\ic_launcher_background.xml"
-    },
-    {
         "merged": "C:\\Users\\lab_services_student\\.gradle\\daemon\\8.2\\com.shongwe.demo.app-merged_res-31:\\drawable_desmond.jpg.flat",
         "source": "C:\\Users\\lab_services_student\\.gradle\\daemon\\8.2\\com.shongwe.demo.app-main-33:\\drawable\\desmond.jpg"
     },
@@ -60,12 +56,12 @@
         "source": "C:\\Users\\lab_services_student\\.gradle\\daemon\\8.2\\com.shongwe.demo.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\lab_services_student\\.gradle\\daemon\\8.2\\com.shongwe.demo.app-merged_res-31:\\drawable_michaeljackson.jpg.flat",
-        "source": "C:\\Users\\lab_services_student\\.gradle\\daemon\\8.2\\com.shongwe.demo.app-main-33:\\drawable\\michaeljackson.jpg"
-    },
-    {
         "merged": "C:\\Users\\lab_services_student\\.gradle\\daemon\\8.2\\com.shongwe.demo.app-merged_res-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\lab_services_student\\.gradle\\daemon\\8.2\\com.shongwe.demo.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\lab_services_student\\.gradle\\daemon\\8.2\\com.shongwe.demo.app-merged_res-31:\\drawable_michaeljackson.jpg.flat",
+        "source": "C:\\Users\\lab_services_student\\.gradle\\daemon\\8.2\\com.shongwe.demo.app-main-33:\\drawable\\michaeljackson.jpg"
     },
     {
         "merged": "C:\\Users\\lab_services_student\\.gradle\\daemon\\8.2\\com.shongwe.demo.app-merged_res-31:\\drawable_williams.jpg.flat",

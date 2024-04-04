@@ -19,6 +19,7 @@ drawable zulu
 id AgeInput
 id GenerateHistory
 id clear_button
+id editTextText
 id personImage
 id resultTextView
 layout activity_main
