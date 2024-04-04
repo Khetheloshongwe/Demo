@@ -1,0 +1,31 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable blue
+drawable desmond
+drawable download
+drawable ic_launcher_foreground
+drawable king
+drawable lembede
+drawable michaeljackson
+drawable mugabe
+drawable paul
+drawable shaka
+drawable stevebiko
+drawable williams
+drawable winnie
+drawable zulu
+id AgeInput
+id GenerateHistory
+id clear_button
+id personImage
+id resultTextView
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Demo
+style Theme.Demo
+xml backup_rules
+xml data_extraction_rules
