@@ -23,9 +23,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-  with:
-    node-version: 20
-
+  
 
       # Set Current Date As Env Variable
       - name: Set current date as env variable
@@ -37,10 +35,14 @@ jobs:
 
       - name: Set Up JDK
         uses: actions/setup-java@v3
+  
+    
+
         with:
           distribution: 'zulu' # See 'Supported distributions' for available options
           java-version: '17'
           cache: 'gradle'
+          node-version: 20
 
       - name: Change wrapper permissions
         run: chmod +x ./gradlew
