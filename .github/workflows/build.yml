@@ -22,7 +22,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3, actions/setup-java@v3
+      - uses: actions/checkout@v4
+  with:
+    node-version: 20
+
 
       # Set Current Date As Env Variable
       - name: Set current date as env variable
@@ -84,3 +87,6 @@ jobs:
         with:
           name: ${{ env.date_today }} - ${{ env.playstore_name }} - ${{ env.repository_name }} - App bundle(s) AAB release generated
           path: ${{ env.main_project_module }}/build/outputs/bundle/release/
+
+  
+
